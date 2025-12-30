@@ -1,7 +1,7 @@
 import { Experience, Project, CodingProfile, Certificate, ResearchEngagement, Publication, BlogPost } from './types';
 
 export const PERSONAL_INFO = {
-  name: "SAEE BARVE",
+  name: "SAEE BAVE",
   title: "Software Engineer & Researcher",
   bio: "Specializing in distributed systems and AI, I engineer scalable platforms and intelligent models that turn research into real world impact.",
   socials: {
